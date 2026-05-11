@@ -59,6 +59,13 @@ Softmax → Predicted Species
 - Safe to eat indicator
 
 ---
+## 📸 Screenshots
+
+### Home
+[Home](screenshots/home.png)
+
+### Prediction Result
+[Prediction](screenshots/prediction.png)
 
 
 
